@@ -1,0 +1,11 @@
+[22-Jul-2025 18:27:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 50
+[22-Jul-2025 18:27:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 50
+[22-Jul-2025 18:28:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 81
+[22-Jul-2025 18:28:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 81
+[22-Jul-2025 18:28:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 81
+[22-Jul-2025 18:28:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 81
+[22-Jul-2025 18:28:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 81
+[22-Jul-2025 18:28:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 81
+[22-Jul-2025 21:00:37 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 2
+[22-Jul-2025 21:00:38 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 2
+[22-Jul-2025 21:00:46 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /home/pdimnnrq/absen.c-test.my.id/siswa/index.php on line 2

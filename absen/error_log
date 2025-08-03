@@ -1,0 +1,63 @@
+[22-Jul-2025 17:09:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/pdimnnrq/absen.c-test.my.id/absen/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pdimnnrq/absen.c-test.my.id/absen/index.php on line 28
+[22-Jul-2025 17:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/pdimnnrq/absen.c-test.my.id/absen/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pdimnnrq/absen.c-test.my.id/absen/index.php on line 28
+[22-Jul-2025 17:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/pdimnnrq/absen.c-test.my.id/absen/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pdimnnrq/absen.c-test.my.id/absen/index.php on line 28
+[22-Jul-2025 17:09:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/pdimnnrq/absen.c-test.my.id/absen/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pdimnnrq/absen.c-test.my.id/absen/index.php on line 28
+[22-Jul-2025 17:09:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/pdimnnrq/absen.c-test.my.id/absen/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pdimnnrq/absen.c-test.my.id/absen/index.php on line 28
+[22-Jul-2025 17:26:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/pdimnnrq/absen.c-test.my.id/absen/index.php on line 109
+[22-Jul-2025 17:26:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/pdimnnrq/absen.c-test.my.id/absen/index.php on line 109
+[22-Jul-2025 17:26:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/pdimnnrq/absen.c-test.my.id/absen/index.php on line 109
+[22-Jul-2025 17:28:08 UTC] PHP Warning:  time() expects exactly 0 parameters, 1 given in /home/pdimnnrq/absen.c-test.my.id/absen/index.php on line 134
+[22-Jul-2025 17:28:08 UTC] PHP Warning:  time() expects exactly 0 parameters, 1 given in /home/pdimnnrq/absen.c-test.my.id/absen/index.php on line 134
+[23-Jul-2025 04:31:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 2
+[23-Jul-2025 04:31:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 2
+[23-Jul-2025 04:31:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 2
+[23-Jul-2025 04:31:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 2
+[23-Jul-2025 04:31:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 2
+[23-Jul-2025 04:32:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 2
+[23-Jul-2025 04:32:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 2
+[23-Jul-2025 04:32:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 2
+[23-Jul-2025 11:34:15 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 38
+[23-Jul-2025 11:34:15 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 39
+[23-Jul-2025 11:34:15 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 40
+[23-Jul-2025 11:34:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 115
+[23-Jul-2025 11:34:16 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 38
+[23-Jul-2025 11:34:16 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 39
+[23-Jul-2025 11:34:16 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 40
+[23-Jul-2025 11:34:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 115
+[23-Jul-2025 11:34:17 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 38
+[23-Jul-2025 11:34:17 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 39
+[23-Jul-2025 11:34:17 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 40
+[23-Jul-2025 11:34:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pdimnnrq/absen.c-test.my.id/absen/laporan.analisis.php on line 115
+[23-Jul-2025 04:43:00 UTC] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 3
+[23-Jul-2025 04:43:00 UTC] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 3
+[23-Jul-2025 04:43:00 UTC] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 3
+[23-Jul-2025 04:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 32
+[23-Jul-2025 04:44:01 UTC] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 3
+[23-Jul-2025 04:44:01 UTC] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 3
+[23-Jul-2025 04:44:01 UTC] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 3
+[23-Jul-2025 04:44:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 32
+[23-Jul-2025 04:47:12 UTC] PHP Warning:  require_once(koneksi.php): failed to open stream: No such file or directory in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 8
+[23-Jul-2025 04:47:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 8
+[23-Jul-2025 04:50:28 UTC] PHP Warning:  require_once(koneksi.php): failed to open stream: No such file or directory in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 8
+[23-Jul-2025 04:50:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'koneksi.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pdimnnrq/absen.c-test.my.id/absen/detail_absensi.php on line 8
