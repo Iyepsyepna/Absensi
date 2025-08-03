@@ -1,4 +1,4 @@
-# Sistem Informasi Sekolah (PHP Native)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4724d231-9510-4a1e-8cec-50406538b714" /># Sistem Informasi Sekolah (PHP Native)
 
 ![PHP Version](https://img.shields.io/badge/PHP-8.2+-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -135,13 +135,13 @@ Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) 
 
 ## 📞 Kontak
 
-- **Nama**: [Nama Anda]
-- **Email**: email@contoh.com
-- **Website**: https://website-anda.com
-- **LinkedIn**: [Profil LinkedIn Anda]
+- **Nama**: Iyep Syepna
+- **Email**: info@iyepsyepna.my.id
+- **Website**: https://iyepsyepna.my.id
+
 
 ---
 
 <div align="center">
-  <sub>Dibuat dengan ❤️ oleh <a href="https://github.com/username">Nama Anda</a></sub>
+  <sub>Dibuat dengan ❤️ oleh <a href="https://github.com/username">C-DEV By Iyep Syepna</a></sub>
 </div>
