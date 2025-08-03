@@ -146,5 +146,5 @@ Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) 
 ---
 
 <div align="center">
-  <sub>Dibuat dengan ❤️ oleh <a href="https://github.com/username">C-DEV By Iyep Syepna</a></sub>
+  <sub>Dibuat oleh <a href="https://github.com/Iyepsyepna">C-DEV By Iyep Syepna</a></sub>
 </div>
