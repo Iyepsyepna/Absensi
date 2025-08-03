@@ -111,6 +111,9 @@ return [
 ];
 ```
 
+// ussername = admin
+// password = admin
+
 ## 📸 Screenshots
 
 | Dashboard |
