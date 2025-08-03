@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4724d231-9510-4a1e-8cec-50406538b714" /># Sistem Informasi Sekolah (PHP Native)
+<img width="1200" height="auto" alt="image" src="img/dashboard.png" /># Sistem Informasi Sekolah (PHP Native)
 
 ![PHP Version](https://img.shields.io/badge/PHP-8.2+-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
