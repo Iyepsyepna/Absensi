@@ -78,7 +78,7 @@ http://localhost/sistem-informasi-sekolah/
 ## 📂 Struktur Proyek
 
 ```
-sistem-informasi-sekolah/
+webaite admin/
 ├── admin/
 │   ├── berita/       # Manajemen berita
 │   ├── sarana/       # Manajemen sarana
@@ -113,13 +113,13 @@ return [
 
 ## 📸 Screenshots
 
-| Halaman Admin | Manajemen Berita |
+| Dashboard |
 |--------------|----------------|
-| ![Admin](screenshots/admin.png) | ![Berita](screenshots/berita.png) |
+| ![Admin](img/dashboard.png) | 
 
-| Sarana Prasarana | Sejarah Sekolah |
+| Kelas | Sekolah |
 |-----------------|----------------|
-| ![Sarana](screenshots/sarana.png) | ![Sejarah](screenshots/sejarah.png) |
+| ![kelas](img/kelas.png) | ![sekolah](img/sekolah.png) |
 
 ## 🤝 Kontribusi
 
