@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$database = 'pdimnnrq_absensi';
-$username = 'pdimnnrq_user-absensi';
-$password = '{N+%mGE?1l7!+A=&';
+$database = 'absensi';
+$username = 'root';
+$password = '';
 
 date_default_timezone_set('Asia/Jakarta');
 
@@ -16,3 +16,4 @@ if (!$conn) {
 
 // Set charset to utf8
 mysqli_set_charset($conn, "utf8mb4");
+
